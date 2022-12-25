@@ -51,9 +51,9 @@ function Sidebar() {
                 <li className="nav-item">
                     <Link to='./inputs'>
                     <div className="nav-link collapsed" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-  <PersonAddIcon />&nbsp;
-        <span>input</span>
+                        aria-expanded="true" aria-controls="collapseUtilities">
+                <PersonAddIcon />&nbsp;
+                        <span>input</span>
                     </div>
                     </Link>
                     </li>

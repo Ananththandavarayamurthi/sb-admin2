@@ -11,6 +11,7 @@ function Inputs(props) {
     let newdata={earningMonthly,earningAnnualy,tasks,pendingRequst}
     
     props.data.setData(newdata)
+  
     navigate('/dashboard')
     }
   return (
